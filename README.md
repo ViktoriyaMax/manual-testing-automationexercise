@@ -6,7 +6,7 @@ Created during QA training by Viktoriia Maximova
 ---
 
 ## 🔗 Sections
-
+- [Test Plan](./test-plan/)
 - [Test Cases](./test-cases/)
 - [Checklists](./checklists/)
 - [Bug Reports](./bug-reports/)
